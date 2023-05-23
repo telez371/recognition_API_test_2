@@ -1,6 +1,6 @@
 from mindee import Client, documents
 
-my_api_key = "136c2ea857c5a00b8e58e63a0a5c8fa6"
+my_api_key = ""
 mindee_client = Client(api_key=my_api_key)
 
 
